@@ -14,14 +14,23 @@ The analysis is based on data obtained from AtliQ’s internal databases. The ma
 
 ## Results and Insights
 1.Atliq has established a strong presence in 8 major APA markets.
+
 2.Product portfolio increased by 36% from FY 2020 to FY 2021.
+
 3.Needs to diversify production in Desktop, Networking, and Storage segments.
+
 4.Highest manufacturing cost was for Personal Desktop, lowest for Mouse.
+
 5.Introduced 34 new accessories products in 2021.
+
 6.Flipkart received the highest discount at 30.83% in 2021.
+
 7.Highest sales in November 2020; lowest in March 2020 due to COVID-19.
+
 8.Quarter 1 of 2020 had the highest sold quantity; Quarter 3 saw a significant drop due to COVID-19.
+
 9.75% of sales were through retailers.
+
 10.In FY 2021, Pen Drives were the top-selling products in the Networking & Storage segment, mice in the Peripherals & Accessories segment, and personal laptops in the Personal & Corporate segment. These products significantly contributed to the company's overall sales performance.
 
 ## Conclusion 
@@ -30,7 +39,9 @@ Overall, Atliq Hardwares has shown impressive growth and resilience, particularl
 ##Future Work
 Future work could include:
 1.Exploring additional datasets to gain deeper insights into customer behavior and preferences.
+
 2.Conducting more granular analysis on specific product categories or regions would provide a more detailed understanding of market dynamics.
+
 3.Implementing machine learning models for predictive analytics could enhance the forecasting of sales and optimization of promotional strategies
 conducting more granular analysis on specific product categories or regions would provide a more detailed understanding of market dynamics.
 
