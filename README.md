@@ -36,7 +36,7 @@ The analysis is based on data obtained from AtliQ’s internal databases. The ma
 ## Conclusion 
 Overall, Atliq Hardwares has shown impressive growth and resilience, particularly in navigating the challenges posed by the COVID-19 pandemic. The company's strategic agility has allowed it to capitalize on market opportunities. The insights from this analysis will support informed decision-making to further strengthen its market position and drive future success.
 
-##Future Work
+## Future Work
 Future work could include:
 
 - Exploring additional datasets to gain deeper insights into customer behavior and preferences.
